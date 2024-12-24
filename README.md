@@ -1,1 +1,1 @@
-Thisn repo contains notebooks of fenics workshop
+This repo contains notebooks of fenics workshop
