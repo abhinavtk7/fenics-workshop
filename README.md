@@ -1,1 +1,1 @@
-This repo contains notebooks of fenics workshop
+This repo contains codes of FEniCS workshop
